@@ -1,5 +1,5 @@
 # Linear-Classifiers
-Implementation of Linear Classifiers for the Assignment 1 of the UIUC CS subject Deep Learning for Computer Vision, 2021/22 Semester 2.
+Implementation of Linear Classifiers for the Assignment 1 of the UIUC CS subject Deep Learning for Computer Vision, 2021/22 Semester 2
 
 Logistic regression (logistic.py)
 
