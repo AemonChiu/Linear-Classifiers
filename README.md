@@ -9,8 +9,11 @@ Softmax (softmax.py)
 Comments:
 
 -1 No description of hyperparmeters tried for perceptron
+
 -1 No description of hyperparmeters tried for SVM
+
 -1 No description of hyperparmeters tried for Softmax
+
 -1 No description of hyperparmeters tried for logistic
 
 Grade:
